@@ -185,3 +185,10 @@ img
         margin: 0px;
         padding: 70px;
        }
+.quienes{
+    text-align: center;
+    color: aliceblue;
+}
+.body1{
+    background-color: #0d2033;
+}

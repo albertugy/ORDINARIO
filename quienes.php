@@ -23,6 +23,29 @@
     <div class="cabeza">
     <a class="boton1" href="index.php">Inicio  </a><a class="boton2" href="quienes.php">¿Quienes somos?  </a><a class="boton3" href="servicios.php">Nuestros servicios  </a><a class="boton3" href="PAGINA.php">Cotizaciones</a>
     </div>
+    <br>
+    <body class="body1">
+    <header class="main-header">
+        <div class="container container--flex">
+            <h1 class="main-header__title">Transportes Rojas</h1>
+        </div>
+        <br>
+            <p class="ayuda">¿Necesitas ayuda?</p>
+            <p class="llama_al"><i class="fa-solid fa-phone"></i> Llama al 8787349123</p>
+        </div>
+    </div>
+    </header>
+    <div class="cabeza">
+        <a class="boton1" href="index.html">Inicio  </a><a class="boton2" href="quienes.html">¿Quienes somos?  </a><a class="boton3" href="servicios.html">Nuestros servicios  </a><a class="boton3" href="">Contacto  </a>
+</div>
+<br>
+<div class="quienes">
+    <h2>SOBRE NOSOTROS</h2>
+    <p>La empresa “Transportes Rojas” se fundo en el año 2019, y ofrece soluciones integrales en  servicios  de  logística  en  carga  pesada  y  maniobras  de  volúmenes  grandes.  Tiene un giro focalizado en servicios de transportes, cuenta en total con 16 empleados, de los cuales 13 son operadores y  3 se encargan de la administración. </p>
+</div>
+<br>
+<img src="https://static.wixstatic.com/media/edcea2_292b63ea07fe4806a1ec1057814df378~mv2_d_2100_1275_s_2.jpg/v1/fill/w_1024,h_596,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/edcea2_292b63ea07fe4806a1ec1057814df378~mv2_d_2100_1275_s_2.jpg">
+    <br>
 
     <footer class="pie-pagina">
     <div class="grupo-1">
