@@ -9,22 +9,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
 
 </head>
-<body>
-    <header class="main-header">
-        <div class="container container--flex">
-            <h1 class="main-header__title">Transportes Rojas</h1>
-        </div>
-        <br>
-            <p class="ayuda">¿Necesitas ayuda?</p>
-            <p class="llama_al"><i class="fa-solid fa-phone"></i> Llama al 8787349123</p>
-        </div>
-    </div>
-    </header>
-    <div class="cabeza">
-    <a class="boton1" href="index.php">Inicio  </a><a class="boton2" href="quienes.php">¿Quienes somos?  </a><a class="boton3" href="servicios.php">Nuestros servicios  </a><a class="boton3" href="PAGINA.php">Cotizaciones</a>
-    </div>
-    <br>
-    <body class="body1">
+<body class="body1">
     <header class="main-header">
         <div class="container container--flex">
             <h1 class="main-header__title">Transportes Rojas</h1>
