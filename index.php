@@ -139,8 +139,13 @@
         </div>
         <div class="box">
             <h2>SOBRE NOSOTROS</h2>
-            <p>Transportes Rojas. Fundado en 2019</p>
-            <p>Ciudad del Carmen, Tabasco</p>
+            <p>Ciudad del Carmen
+            Calle Manuel M. Ponce No. 53 Col. Compositores CP. 24150<br>
+            Ciudad del Carmen Campeche, México.<br>
+            Tel. Oficina (938) 118 16 23<br>
+            Cel. 938 389 278 44<br>
+            Cel. 938 123 93 40<br>
+            Email : logística@transportesrojas.mx</p>
         </div>
         <div class="box">
             <h2>SIGUENOS</h2>
