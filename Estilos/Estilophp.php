@@ -10,12 +10,12 @@ header("Content-Type: text/css; charset: UTF-8");
 }
 
 form {
-	padding: 50px 20px;
+	padding: 40px 20px;
 	background-color: #ededed;
 	margin: calc(25% + 100px);
 	margin-top: 40px;
 	padding-top: 20px;
-	margin-bottom: 30px
+	margin-bottom: 20px;
 }
 
 h1 {
@@ -33,10 +33,18 @@ input {
 }
 
 input[type='submit']{
-	background-color: #48e;
+	background-color: #fc0317;
 	color: #fff;
 	width: calc(80% - 20px);
 	margin: 0 10%;
 	margin-top: 22px;
 	border: none;
+	border-radius: 20px;
+    padding: 10px;
+}
+
+a{
+	color: #fc0317;
+	font-size:20px;
+	
 }

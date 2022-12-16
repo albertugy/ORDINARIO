@@ -1,25 +1,16 @@
-<?php
-    session_start();
-    //poner esto cuando se quiera llamar al inicio de sesion
-        
-    if (!isset($_SESSION['Usuario'])) {
-        header("Location: REGISTRO.php"); //con esta linea puedes mandar a otros documentos
-    }
-
-    ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="Estilos/estilos.php">
+    <title>Transportes</title>
+    <link rel="stylesheet" href="Estilos/estilos.php">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
-    <title>Cotizaciones</title>
+
 </head>
 <body>
-<header class="main-header">
+    <header class="main-header">
         <div class="container container--flex">
             <h1 class="main-header__title">Transportes Rojas</h1>
         </div>
@@ -30,14 +21,10 @@
     </div>
     </header>
     <div class="cabeza">
-          <a class="boton1" href="index.php">Inicio  </a><a class="boton2" href="quienes.php">¿Quienes somos?  </a><a class="boton3" href="servicios.php">Nuestros servicios  </a><a class="boton3" href="PAGINA.php">Cotizaciones</a>
-     </div>
-</div>
-    <h1>Bienvenido</h1>
-    
-<a href="SALIR.php"> Cerrar sesion</a>
+    <a class="boton1" href="index.php">Inicio  </a><a class="boton2" href="quienes.php">¿Quienes somos?  </a><a class="boton3" href="servicios.php">Nuestros servicios  </a><a class="boton3" href="PAGINA.php">Cotizaciones</a>
+    </div>
 
-<footer class="pie-pagina">
+    <footer class="pie-pagina">
     <div class="grupo-1">
         <div class="box">
             <figure>

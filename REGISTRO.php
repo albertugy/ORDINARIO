@@ -80,10 +80,7 @@ if(isset($_POST['registro'])){
         <input type="submit" name="registro">
 
     </form>
-    <br>
     <h3><a href="INGRESAR.php">Ya tengo cuenta</a> </h3>
-    <br>
-    <hr>
    
   
 

@@ -39,7 +39,8 @@ if(isset($_POST["registro"])){
     <title>Iniciar sesión</title>
 </head>
 <body>
-     
+     <br><br><br><br>
+
 <form method="post">
         <h1>Iniciar sesión</h1>
         
@@ -50,8 +51,7 @@ if(isset($_POST["registro"])){
     </form>
     <br>
     <h3><a href="REGISTRO.php">No tengo cuenta...</a> </h3>
-    <br>
-    <hr>
+    <br> 
    
   
 
